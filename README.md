@@ -44,9 +44,18 @@ situation alerts.
 
 ![Ultrawide](screenshots/ultrawide.jpg)
 
+## Pick one file
+
+| File | Top right |
+|---|---|
+| `StudioVesper.fbmod` | VESPER logo + corner scores box |
+| `StudioVesper-NoScores.fbmod` | VESPER logo only, no other-game scores |
+
+Enable only one of them.
+
 ## Install
 
-1. In the Mod Manager, import `StudioVesper.fbmod`.
+1. In the Mod Manager, import `StudioVesper.fbmod` or `StudioVesper-NoScores.fbmod`.
 2. Turn off any other score bug or broadcast package (NBC, ESPN, CFP ESPN, CFB on CN and similar), and any Hide
    Scorebug mod. They replace the same screens.
 3. Apply and launch.
