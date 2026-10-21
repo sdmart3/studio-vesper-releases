@@ -55,4 +55,3 @@ situation alerts.
 
 - Very dark navy team colours can be hard to read on the FIELDGOAL banner.
 - A penalty that moves the ball before a snap can count as a play on the drive chip.
-- After a game update, wait for an updated release before playing with it on.
