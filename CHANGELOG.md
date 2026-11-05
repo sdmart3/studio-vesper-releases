@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.1
+
+- Works with the October 29 game update. Both files are rebuilt for it; nothing else changed.
+
 ## 1.0.0
 
 - First release: score bug with field strip and line to gain, win probability, drive chip, field goal range,

@@ -9,6 +9,8 @@ situation alerts.
 
 ![Full display](screenshots/full-display.jpg)
 
+**Version 1.0.1 is updated for the 29 October 2026 game update.** If you are on 1.0.0, replace it (see "Updating and removing"). Nothing else changed.
+
 ## What's in it
 
 - **Score bug:** a compact bug at the top left. It has a white clock chip, a royal team bar with chevron team tabs,
@@ -59,6 +61,11 @@ Enable only one of them.
 2. Turn off any other score bug or broadcast package (NBC, ESPN, CFP ESPN, CFB on CN and similar), and any Hide
    Scorebug mod. They replace the same screens.
 3. Apply and launch.
+
+## Updating and removing
+
+- **Update from 1.0.0:** in the Mod Manager, remove the old Studio Vesper, import the new file, and apply.
+- **Remove:** in the Mod Manager, turn Studio Vesper off (or delete it) and apply. The game goes back to the stock broadcast.
 
 ## Notes
 
